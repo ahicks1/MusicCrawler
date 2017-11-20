@@ -1,0 +1,16 @@
+(i__main__
+Playlist
+p0
+(dp1
+S'songs'
+p2
+(lp3
+sS'id'
+p4
+S''
+p5
+sS'name'
+p6
+S'CurrentlyLiked'
+p7
+sb.

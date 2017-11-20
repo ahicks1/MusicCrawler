@@ -1,0 +1,425 @@
+(i__main__
+Playlist
+p0
+(dp1
+S'songs'
+p2
+(lp3
+(i__main__
+Song
+p4
+(dp5
+S'id'
+p6
+S''
+p7
+sS'name'
+p8
+VI've Seen All Good People: a. Your Move, b. All Good People 
+p9
+sS'artist'
+p10
+VYes
+p11
+sba(i__main__
+Song
+p12
+(dp13
+g6
+g7
+sg8
+VBaba O'Riley
+p14
+sg10
+VThe Who
+p15
+sba(i__main__
+Song
+p16
+(dp17
+g6
+g7
+sg8
+VStairway To Heaven
+p18
+sg10
+VLed Zeppelin
+p19
+sba(i__main__
+Song
+p20
+(dp21
+g6
+g7
+sg8
+VCarry on Wayward Son
+p22
+sg10
+VKansas
+p23
+sba(i__main__
+Song
+p24
+(dp25
+g6
+g7
+sg8
+VSt Elmo's Fire
+p26
+sg10
+VJOHN PARR
+p27
+sba(i__main__
+Song
+p28
+(dp29
+g6
+g7
+sg8
+VSt. Elmos Fire 
+p30
+sg10
+VJohn Parr
+p31
+sba(i__main__
+Song
+p32
+(dp33
+g6
+g7
+sg8
+VFree Bird
+p34
+sg10
+VLynyrd Skynyrd
+p35
+sba(i__main__
+Song
+p36
+(dp37
+g6
+g7
+sg8
+VDon't Stop Believin'
+p38
+sg10
+VJourney
+p39
+sba(i__main__
+Song
+p40
+(dp41
+g6
+g7
+sg8
+VDream On
+p42
+sg10
+VAerosmith
+p43
+sba(i__main__
+Song
+p44
+(dp45
+g6
+g7
+sg8
+VBohemian Rhapsody
+p46
+sg10
+VQueen
+p47
+sba(i__main__
+Song
+p48
+(dp49
+g6
+g7
+sg8
+VRoundabout 
+p50
+sg10
+VYes
+p51
+sba(i__main__
+Song
+p52
+(dp53
+g6
+g7
+sg8
+VSweet Home Alabama
+p54
+sg10
+VLynyrd Skynyrd
+p55
+sba(i__main__
+Song
+p56
+(dp57
+g6
+g7
+sg8
+VMore Than a Feeling
+p58
+sg10
+VBoston
+p59
+sba(i__main__
+Song
+p60
+(dp61
+g6
+g7
+sg8
+VRenegade
+p62
+sg10
+VStyx
+p63
+sba(i__main__
+Song
+p64
+(dp65
+g6
+g7
+sg8
+VBoogie Wonderland
+p66
+sg10
+VEarth, Wind & Fire
+p67
+sba(i__main__
+Song
+p68
+(dp69
+g6
+g7
+sg8
+VSome Nights
+p70
+sg10
+VFun.
+p71
+sba(i__main__
+Song
+p72
+(dp73
+g6
+g7
+sg8
+VBack In Black
+p74
+sg10
+VAC/DC
+p75
+sba(i__main__
+Song
+p76
+(dp77
+g6
+g7
+sg8
+VFortunate Son
+p78
+sg10
+VCreedence Clearwater Revival
+p79
+sba(i__main__
+Song
+p80
+(dp81
+g6
+g7
+sg8
+VImagine 
+p82
+sg10
+VJohn Lennon
+p83
+sba(i__main__
+Song
+p84
+(dp85
+g6
+g7
+sg8
+VMagic Carpet Ride
+p86
+sg10
+VSteppenwolf
+p87
+sba(i__main__
+Song
+p88
+(dp89
+g6
+g7
+sg8
+VShould I Stay or Should I Go 
+p90
+sg10
+VThe Clash
+p91
+sba(i__main__
+Song
+p92
+(dp93
+g6
+g7
+sg8
+VCrazy Train
+p94
+sg10
+VOzzy Osbourne
+p95
+sba(i__main__
+Song
+p96
+(dp97
+g6
+g7
+sg8
+VBad To The Bone
+p98
+sg10
+VGeorge Thorogood And The Destroyers
+p99
+sba(i__main__
+Song
+p100
+(dp101
+g6
+g7
+sg8
+VCelebration
+p102
+sg10
+VKool & The Gang
+p103
+sba(i__main__
+Song
+p104
+(dp105
+g6
+g7
+sg8
+VWe Built This City
+p106
+sg10
+VStarship
+p107
+sba(i__main__
+Song
+p108
+(dp109
+g6
+g7
+sg8
+VNothing's Gonna Stop Us Now
+p110
+sg10
+VStarship
+p111
+sba(i__main__
+Song
+p112
+(dp113
+g6
+g7
+sg8
+VMr. Blue Sky
+p114
+sg10
+VElectric Light Orchestra
+p115
+sba(i__main__
+Song
+p116
+(dp117
+g6
+g7
+sg8
+VAfrica
+p118
+sg10
+VToto
+p119
+sba(i__main__
+Song
+p120
+(dp121
+g6
+g7
+sg8
+VBlinded By The Light 
+p122
+sg10
+VManfred Mann's Earth Band
+p123
+sba(i__main__
+Song
+p124
+(dp125
+g6
+g7
+sg8
+VYou Might Think
+p126
+sg10
+VThe Cars
+p127
+sba(i__main__
+Song
+p128
+(dp129
+g6
+g7
+sg8
+VJump
+p130
+sg10
+VVan Halen
+p131
+sba(i__main__
+Song
+p132
+(dp133
+g6
+g7
+sg8
+VCould This Be Love
+p134
+sg10
+VToto
+p135
+sba(i__main__
+Song
+p136
+(dp137
+g6
+g7
+sg8
+VSeasons
+p138
+sg10
+VSteve Miller Band
+p139
+sba(i__main__
+Song
+p140
+(dp141
+g6
+g7
+sg8
+VTake The Money And Run
+p142
+sg10
+VSteve Miller Band
+p143
+sbasg6
+g7
+sg8
+S'Classic Rock'
+p144
+sb.

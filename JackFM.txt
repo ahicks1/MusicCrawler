@@ -1,0 +1,3077 @@
+(i__main__
+Playlist
+p0
+(dp1
+S'songs'
+p2
+(lp3
+(i__main__
+Song
+p4
+(dp5
+S'id'
+p6
+S''
+p7
+sS'name'
+p8
+VLove In An Elevator 
+p9
+sS'artist'
+p10
+VAerosmith
+p11
+sba(i__main__
+Song
+p12
+(dp13
+g6
+g7
+sg8
+VDon't You 
+p14
+sg10
+VSimple Minds
+p15
+sba(i__main__
+Song
+p16
+(dp17
+g6
+g7
+sg8
+VAll the Small Things
+p18
+sg10
+Vblink-182
+p19
+sba(i__main__
+Song
+p20
+(dp21
+g6
+g7
+sg8
+VCelebration
+p22
+sg10
+VKool & The Gang
+p23
+sba(i__main__
+Song
+p24
+(dp25
+g6
+g7
+sg8
+VGive It Away
+p26
+sg10
+VRed Hot Chili Peppers
+p27
+sba(i__main__
+Song
+p28
+(dp29
+g6
+g7
+sg8
+VIt's Still Rock and Roll to Me
+p30
+sg10
+VBilly Joel
+p31
+sba(i__main__
+Song
+p32
+(dp33
+g6
+g7
+sg8
+VThat's All
+p34
+sg10
+VGenesis
+p35
+sba(i__main__
+Song
+p36
+(dp37
+g6
+g7
+sg8
+VHurts So Good
+p38
+sg10
+VJohn Mellencamp
+p39
+sba(i__main__
+Song
+p40
+(dp41
+g6
+g7
+sg8
+VLocked Out Of Heaven
+p42
+sg10
+VBruno Mars
+p43
+sba(i__main__
+Song
+p44
+(dp45
+g6
+g7
+sg8
+VFoolin' 
+p46
+sg10
+VDef Leppard
+p47
+sba(i__main__
+Song
+p48
+(dp49
+g6
+g7
+sg8
+VUnbelievable
+p50
+sg10
+VEMF
+p51
+sba(i__main__
+Song
+p52
+(dp53
+g6
+g7
+sg8
+VDouble Vision 
+p54
+sg10
+VForeigner
+p55
+sba(i__main__
+Song
+p56
+(dp57
+g6
+g7
+sg8
+VAnother One Bites The Dust
+p58
+sg10
+VQueen
+p59
+sba(i__main__
+Song
+p60
+(dp61
+g6
+g7
+sg8
+VLife's Been Good
+p62
+sg10
+VJoe Walsh
+p63
+sba(i__main__
+Song
+p64
+(dp65
+g6
+g7
+sg8
+VKnockin' On Heaven's Door
+p66
+sg10
+VGuns N' Roses
+p67
+sba(i__main__
+Song
+p68
+(dp69
+g6
+g7
+sg8
+VGives You Hell
+p70
+sg10
+VThe All-American Rejects
+p71
+sba(i__main__
+Song
+p72
+(dp73
+g6
+g7
+sg8
+VI Alone
+p74
+sg10
+VLive
+p75
+sba(i__main__
+Song
+p76
+(dp77
+g6
+g7
+sg8
+V1999
+p78
+sg10
+VPrince
+p79
+sba(i__main__
+Song
+p80
+(dp81
+g6
+g7
+sg8
+VEnjoy The Silence 
+p82
+sg10
+VDepeche Mode
+p83
+sba(i__main__
+Song
+p84
+(dp85
+g6
+g7
+sg8
+VRunaway Train
+p86
+sg10
+VSoul Asylum
+p87
+sba(i__main__
+Song
+p88
+(dp89
+g6
+g7
+sg8
+VSomebody Told Me
+p90
+sg10
+VThe Killers
+p91
+sba(i__main__
+Song
+p92
+(dp93
+g6
+g7
+sg8
+VFeel Like Makin' Love 
+p94
+sg10
+VBad Company
+p95
+sba(i__main__
+Song
+p96
+(dp97
+g6
+g7
+sg8
+VJump
+p98
+sg10
+VVan Halen
+p99
+sba(i__main__
+Song
+p100
+(dp101
+g6
+g7
+sg8
+VFaith 
+p102
+sg10
+VGeorge Michael
+p103
+sba(i__main__
+Song
+p104
+(dp105
+g6
+g7
+sg8
+VI Melt With You
+p106
+sg10
+VModern English
+p107
+sba(i__main__
+Song
+p108
+(dp109
+g6
+g7
+sg8
+V3AM
+p110
+sg10
+VMatchbox Twenty
+p111
+sba(i__main__
+Song
+p112
+(dp113
+g6
+g7
+sg8
+VDon't Do Me Like That
+p114
+sg10
+VTom Petty And The Heartbreakers
+p115
+sba(i__main__
+Song
+p116
+(dp117
+g6
+g7
+sg8
+V Died in Your Arms
+p118
+sg10
+VCutting Crew
+p119
+sba(i__main__
+Song
+p120
+(dp121
+g6
+g7
+sg8
+VMickey
+p122
+sg10
+VToni Basil
+p123
+sba(i__main__
+Song
+p124
+(dp125
+g6
+g7
+sg8
+VBetter Man
+p126
+sg10
+VPearl Jam
+p127
+sba(i__main__
+Song
+p128
+(dp129
+g6
+g7
+sg8
+VI'm Gonna Be 
+p130
+sg10
+VThe Proclaimers
+p131
+sba(i__main__
+Song
+p132
+(dp133
+g6
+g7
+sg8
+VDemons
+p134
+sg10
+VImagine Dragons
+p135
+sba(i__main__
+Song
+p136
+(dp137
+g6
+g7
+sg8
+VRun To You
+p138
+sg10
+VBryan Adams
+p139
+sba(i__main__
+Song
+p140
+(dp141
+g6
+g7
+sg8
+VBlack Betty
+p142
+sg10
+VRam Jam
+p143
+sba(i__main__
+Song
+p144
+(dp145
+g6
+g7
+sg8
+VKeep on Loving You
+p146
+sg10
+VREO Speedwagon
+p147
+sba(i__main__
+Song
+p148
+(dp149
+g6
+g7
+sg8
+VYou Oughta Know
+p150
+sg10
+VAlanis Morissette
+p151
+sba(i__main__
+Song
+p152
+(dp153
+g6
+g7
+sg8
+VBrick House
+p154
+sg10
+VCommodores
+p155
+sba(i__main__
+Song
+p156
+(dp157
+g6
+g7
+sg8
+VDr. Feelgood
+p158
+sg10
+VMötley Crüe
+p159
+sba(i__main__
+Song
+p160
+(dp161
+g6
+g7
+sg8
+VI'm A Believer 
+p162
+sg10
+VSmash Mouth
+p163
+sba(i__main__
+Song
+p164
+(dp165
+g6
+g7
+sg8
+VIt's the End of the World As We Know It 
+p166
+sg10
+VR.E.M.
+p167
+sba(i__main__
+Song
+p168
+(dp169
+g6
+g7
+sg8
+VYou Make Loving Fun
+p170
+sg10
+VFleetwood Mac
+p171
+sba(i__main__
+Song
+p172
+(dp173
+g6
+g7
+sg8
+VScar Tissue
+p174
+sg10
+VRed Hot Chili Peppers
+p175
+sba(i__main__
+Song
+p176
+(dp177
+g6
+g7
+sg8
+VRun-Around
+p178
+sg10
+VBlues Traveler
+p179
+sba(i__main__
+Song
+p180
+(dp181
+g6
+g7
+sg8
+VMy Best Friend's Girl
+p182
+sg10
+VThe Cars
+p183
+sba(i__main__
+Song
+p184
+(dp185
+g6
+g7
+sg8
+V867-5309 / Jenny
+p186
+sg10
+VTommy Tutone
+p187
+sba(i__main__
+Song
+p188
+(dp189
+g6
+g7
+sg8
+VBlack Dog
+p190
+sg10
+VLed Zeppelin
+p191
+sba(i__main__
+Song
+p192
+(dp193
+g6
+g7
+sg8
+VYou Shook Me All Night Long
+p194
+sg10
+VAC/DC
+p195
+sba(i__main__
+Song
+p196
+(dp197
+g6
+g7
+sg8
+VThink I'm In Love
+p198
+sg10
+VEddie Money
+p199
+sba(i__main__
+Song
+p200
+(dp201
+g6
+g7
+sg8
+VWalk This Way
+p202
+sg10
+VAerosmith
+p203
+sba(i__main__
+Song
+p204
+(dp205
+g6
+g7
+sg8
+VWhy Can't This Be Love
+p206
+sg10
+VVan Halen
+p207
+sba(i__main__
+Song
+p208
+(dp209
+g6
+g7
+sg8
+VBlow Me 
+p210
+sg10
+VP!nk
+p211
+sba(i__main__
+Song
+p212
+(dp213
+g6
+g7
+sg8
+VSurrender
+p214
+sg10
+VCheap Trick
+p215
+sba(i__main__
+Song
+p216
+(dp217
+g6
+g7
+sg8
+VMony Mony 
+p218
+sg10
+VBilly Idol
+p219
+sba(i__main__
+Song
+p220
+(dp221
+g6
+g7
+sg8
+VSlide
+p222
+sg10
+VGoo Goo Dolls
+p223
+sba(i__main__
+Song
+p224
+(dp225
+g6
+g7
+sg8
+VNothing But a Good Time 
+p226
+sg10
+VPoison
+p227
+sba(i__main__
+Song
+p228
+(dp229
+g6
+g7
+sg8
+VOnly Wanna Be With You
+p230
+sg10
+VHootie & The Blowfish
+p231
+sba(i__main__
+Song
+p232
+(dp233
+g6
+g7
+sg8
+VSharp Dressed Man 
+p234
+sg10
+VZZ Top
+p235
+sba(i__main__
+Song
+p236
+(dp237
+g6
+g7
+sg8
+VHit Me With Your Best Shot 
+p238
+sg10
+VPat Benatar
+p239
+sba(i__main__
+Song
+p240
+(dp241
+g6
+g7
+sg8
+VWild Thing
+p242
+sg10
+VTone-Loc
+p243
+sba(i__main__
+Song
+p244
+(dp245
+g6
+g7
+sg8
+VSweet Dreams 
+p246
+sg10
+VEurythmics
+p247
+sba(i__main__
+Song
+p248
+(dp249
+g6
+g7
+sg8
+VHysteria 2013 
+p250
+sg10
+VDef Leppard
+p251
+sba(i__main__
+Song
+p252
+(dp253
+g6
+g7
+sg8
+VGood Riddance  
+p254
+sg10
+VGreen Day
+p255
+sba(i__main__
+Song
+p256
+(dp257
+g6
+g7
+sg8
+VThe Safety Dance
+p258
+sg10
+VMen Without Hats
+p259
+sba(i__main__
+Song
+p260
+(dp261
+g6
+g7
+sg8
+VCold as Ice 
+p262
+sg10
+VForeigner
+p263
+sba(i__main__
+Song
+p264
+(dp265
+g6
+g7
+sg8
+VYour Love
+p266
+sg10
+VThe Outfield
+p267
+sba(i__main__
+Song
+p268
+(dp269
+g6
+g7
+sg8
+VSmooth Criminal
+p270
+sg10
+VAlien Ant Farm
+p271
+sba(i__main__
+Song
+p272
+(dp273
+g6
+g7
+sg8
+VBlack Velvet
+p274
+sg10
+VAlannah Myles
+p275
+sba(i__main__
+Song
+p276
+(dp277
+g6
+g7
+sg8
+VLayla
+p278
+sg10
+VDerek & The Dominos
+p279
+sba(i__main__
+Song
+p280
+(dp281
+g6
+g7
+sg8
+VJust A Girl
+p282
+sg10
+VNo Doubt
+p283
+sba(i__main__
+Song
+p284
+(dp285
+g6
+g7
+sg8
+VHere I Go Again 
+p286
+sg10
+VWhitesnake
+p287
+sba(i__main__
+Song
+p288
+(dp289
+g6
+g7
+sg8
+VIt's Been Awhile 
+p290
+sg10
+VStaind
+p291
+sba(i__main__
+Song
+p292
+(dp293
+g6
+g7
+sg8
+VI Want A New Drug 
+p294
+sg10
+VHuey Lewis & The News
+p295
+sba(i__main__
+Song
+p296
+(dp297
+g6
+g7
+sg8
+VEye of the Tiger
+p298
+sg10
+VSurvivor
+p299
+sba(i__main__
+Song
+p300
+(dp301
+g6
+g7
+sg8
+VSweet Emotion
+p302
+sg10
+VAerosmith
+p303
+sba(i__main__
+Song
+p304
+(dp305
+g6
+g7
+sg8
+VHow Bizarre
+p306
+sg10
+VOMC
+p307
+sba(i__main__
+Song
+p308
+(dp309
+g6
+g7
+sg8
+VRock the Casbah 
+p310
+sg10
+VThe Clash
+p311
+sba(i__main__
+Song
+p312
+(dp313
+g6
+g7
+sg8
+VHighway to Hell
+p314
+sg10
+VAC/DC
+p315
+sba(i__main__
+Song
+p316
+(dp317
+g6
+g7
+sg8
+VInvisible Touch
+p318
+sg10
+VGenesis
+p319
+sba(i__main__
+Song
+p320
+(dp321
+g6
+g7
+sg8
+VBeverly Hills
+p322
+sg10
+VWeezer
+p323
+sba(i__main__
+Song
+p324
+(dp325
+g6
+g7
+sg8
+VDon't Stop Believin'
+p326
+sg10
+VJourney
+p327
+sba(i__main__
+Song
+p328
+(dp329
+g6
+g7
+sg8
+VRock This Town
+p330
+sg10
+VStray Cats
+p331
+sba(i__main__
+Song
+p332
+(dp333
+g6
+g7
+sg8
+VSaturday Night's Alright 
+p334
+sg10
+VElton John
+p335
+sba(i__main__
+Song
+p336
+(dp337
+g6
+g7
+sg8
+VSanteria
+p338
+sg10
+VSublime
+p339
+sba(i__main__
+Song
+p340
+(dp341
+g6
+g7
+sg8
+VPanama 
+p342
+sg10
+VVan Halen
+p343
+sba(i__main__
+Song
+p344
+(dp345
+g6
+g7
+sg8
+VTainted Love
+p346
+sg10
+VSoft Cell
+p347
+sba(i__main__
+Song
+p348
+(dp349
+g6
+g7
+sg8
+VI Want You to Want Me
+p350
+sg10
+VCheap Trick
+p351
+sba(i__main__
+Song
+p352
+(dp353
+g6
+g7
+sg8
+VThe World I Know
+p354
+sg10
+VCollective Soul
+p355
+sba(i__main__
+Song
+p356
+(dp357
+g6
+g7
+sg8
+VLove Is A Battlefield 
+p358
+sg10
+VPat Benatar
+p359
+sba(i__main__
+Song
+p360
+(dp361
+g6
+g7
+sg8
+VSomebody that I Used to Know 
+p362
+sg10
+VGotye
+p363
+sba(i__main__
+Song
+p364
+(dp365
+g6
+g7
+sg8
+VSomebody 
+p366
+sg10
+VBryan Adams
+p367
+sba(i__main__
+Song
+p368
+(dp369
+g6
+g7
+sg8
+VOld Time Rock and Roll
+p370
+sg10
+VDetroit Rock Hitters
+p371
+sba(i__main__
+Song
+p372
+(dp373
+g6
+g7
+sg8
+VWalkin' On The Sun
+p374
+sg10
+VSmash Mouth
+p375
+sba(i__main__
+Song
+p376
+(dp377
+g6
+g7
+sg8
+VI Won't Back Down
+p378
+sg10
+VTom Petty
+p379
+sba(i__main__
+Song
+p380
+(dp381
+g6
+g7
+sg8
+VIn The End
+p382
+sg10
+VLinkin Park
+p383
+sba(i__main__
+Song
+p384
+(dp385
+g6
+g7
+sg8
+VBrass In Pocket
+p386
+sg10
+VPretenders
+p387
+sba(i__main__
+Song
+p388
+(dp389
+g6
+g7
+sg8
+VInterstate Love Song
+p390
+sg10
+VStone Temple Pilots
+p391
+sba(i__main__
+Song
+p392
+(dp393
+g6
+g7
+sg8
+VYou're All I've Got Tonight
+p394
+sg10
+VThe Cars
+p395
+sba(i__main__
+Song
+p396
+(dp397
+g6
+g7
+sg8
+VRag Doll
+p398
+sg10
+VAerosmith
+p399
+sba(i__main__
+Song
+p400
+(dp401
+g6
+g7
+sg8
+VLittle Red Corvette
+p402
+sg10
+VPrince
+p403
+sba(i__main__
+Song
+p404
+(dp405
+g6
+g7
+sg8
+VHey Jealousy
+p406
+sg10
+VGin Blossoms
+p407
+sba(i__main__
+Song
+p408
+(dp409
+g6
+g7
+sg8
+VSunglasses At Night
+p410
+sg10
+VCorey Hart
+p411
+sba(i__main__
+Song
+p412
+(dp413
+g6
+g7
+sg8
+VGimme All Your Lovin'
+p414
+sg10
+VZZ Top
+p415
+sba(i__main__
+Song
+p416
+(dp417
+g6
+g7
+sg8
+VMy Kinda Lover
+p418
+sg10
+VBilly Squier
+p419
+sba(i__main__
+Song
+p420
+(dp421
+g6
+g7
+sg8
+VYou Get What You Give
+p422
+sg10
+VNew Radicals
+p423
+sba(i__main__
+Song
+p424
+(dp425
+g6
+g7
+sg8
+VOwner Of A Lonely Heart
+p426
+sg10
+VYes
+p427
+sba(i__main__
+Song
+p428
+(dp429
+g6
+g7
+sg8
+VEverybody Talks
+p430
+sg10
+VNeon Trees
+p431
+sba(i__main__
+Song
+p432
+(dp433
+g6
+g7
+sg8
+VRock And Roll All Nite
+p434
+sg10
+VKiss
+p435
+sba(i__main__
+Song
+p436
+(dp437
+g6
+g7
+sg8
+VThis Love
+p438
+sg10
+VMaroon 5
+p439
+sba(i__main__
+Song
+p440
+(dp441
+g6
+g7
+sg8
+VIris
+p442
+sg10
+VGoo Goo Dolls
+p443
+sba(i__main__
+Song
+p444
+(dp445
+g6
+g7
+sg8
+VHungry Like the Wolf 
+p446
+sg10
+VDuran Duran
+p447
+sba(i__main__
+Song
+p448
+(dp449
+g6
+g7
+sg8
+VDirty Deeds Done Dirt Cheap
+p450
+sg10
+VAC/DC
+p451
+sba(i__main__
+Song
+p452
+(dp453
+g6
+g7
+sg8
+VWelcome To The Jungle
+p454
+sg10
+VGuns N' Roses
+p455
+sba(i__main__
+Song
+p456
+(dp457
+g6
+g7
+sg8
+VStayin' Alive
+p458
+sg10
+VBee Gees
+p459
+sba(i__main__
+Song
+p460
+(dp461
+g6
+g7
+sg8
+VPush
+p462
+sg10
+VMatchbox Twenty
+p463
+sba(i__main__
+Song
+p464
+(dp465
+g6
+g7
+sg8
+VTake Me Home Tonight
+p466
+sg10
+VEddie Money
+p467
+sba(i__main__
+Song
+p468
+(dp469
+g6
+g7
+sg8
+VTake It Easy
+p470
+sg10
+VEagles
+p471
+sba(i__main__
+Song
+p472
+(dp473
+g6
+g7
+sg8
+VAddicted To Love
+p474
+sg10
+VRobert Palmer
+p475
+sba(i__main__
+Song
+p476
+(dp477
+g6
+g7
+sg8
+VThe Reason
+p478
+sg10
+VHoobastank
+p479
+sba(i__main__
+Song
+p480
+(dp481
+g6
+g7
+sg8
+VOnce In A Lifetime
+p482
+sg10
+VTalking Heads
+p483
+sba(i__main__
+Song
+p484
+(dp485
+g6
+g7
+sg8
+VJuke Box Hero
+p486
+sg10
+VForeigner
+p487
+sba(i__main__
+Song
+p488
+(dp489
+g6
+g7
+sg8
+VGood Vibrations 
+p490
+sg10
+VMarky Mark And The Funky Bunch
+p491
+sba(i__main__
+Song
+p492
+(dp493
+g6
+g7
+sg8
+VYou Spin Me Round 
+p494
+sg10
+VDead Or Alive
+p495
+sba(i__main__
+Song
+p496
+(dp497
+g6
+g7
+sg8
+VRefugee
+p498
+sg10
+VTom Petty And The Heartbreakers
+p499
+sba(i__main__
+Song
+p500
+(dp501
+g6
+g7
+sg8
+VJanie's Got A Gun
+p502
+sg10
+VAerosmith
+p503
+sba(i__main__
+Song
+p504
+(dp505
+g6
+g7
+sg8
+VTom Sawyer
+p506
+sg10
+VRush
+p507
+sba(i__main__
+Song
+p508
+(dp509
+g6
+g7
+sg8
+VSteal My Sunshine 
+p510
+sg10
+VLen
+p511
+sba(i__main__
+Song
+p512
+(dp513
+g6
+g7
+sg8
+VSmokin' In The Boys Room
+p514
+sg10
+VMötley Crüe
+p515
+sba(i__main__
+Song
+p516
+(dp517
+g6
+g7
+sg8
+VEvery Morning
+p518
+sg10
+VSugar Ray
+p519
+sba(i__main__
+Song
+p520
+(dp521
+g6
+g7
+sg8
+VI Will Follow 
+p522
+sg10
+VU2
+p523
+sba(i__main__
+Song
+p524
+(dp525
+g6
+g7
+sg8
+VGirls Just Want to Have Fun
+p526
+sg10
+VCyndi Lauper
+p527
+sba(i__main__
+Song
+p528
+(dp529
+g6
+g7
+sg8
+VThe Joker
+p530
+sg10
+VSteve Miller Band
+p531
+sba(i__main__
+Song
+p532
+(dp533
+g6
+g7
+sg8
+VManeater 
+p534
+sg10
+VHall & Oates
+p535
+sba(i__main__
+Song
+p536
+(dp537
+g6
+g7
+sg8
+VWake Me Up When September Ends 
+p538
+sg10
+VGreen Day
+p539
+sba(i__main__
+Song
+p540
+(dp541
+g6
+g7
+sg8
+VTom's Diner 
+p542
+sg10
+VDNA
+p543
+sba(i__main__
+Song
+p544
+(dp545
+g6
+g7
+sg8
+VYou're My Best Friend
+p546
+sg10
+VQueen
+p547
+sba(i__main__
+Song
+p548
+(dp549
+g6
+g7
+sg8
+VFight For Your Right
+p550
+sg10
+VBeastie Boys
+p551
+sba(i__main__
+Song
+p552
+(dp553
+g6
+g7
+sg8
+VShe's so High
+p554
+sg10
+VTal Bachman
+p555
+sba(i__main__
+Song
+p556
+(dp557
+g6
+g7
+sg8
+VSuperstition
+p558
+sg10
+VStevie Wonder
+p559
+sba(i__main__
+Song
+p560
+(dp561
+g6
+g7
+sg8
+VFootloose
+p562
+sg10
+VKenny Loggins
+p563
+sba(i__main__
+Song
+p564
+(dp565
+g6
+g7
+sg8
+VDecember
+p566
+sg10
+VCollective Soul
+p567
+sba(i__main__
+Song
+p568
+(dp569
+g6
+g7
+sg8
+VRound and Round
+p570
+sg10
+VRatt
+p571
+sba(i__main__
+Song
+p572
+(dp573
+g6
+g7
+sg8
+VRaise Your Glass
+p574
+sg10
+VP!nk
+p575
+sba(i__main__
+Song
+p576
+(dp577
+g6
+g7
+sg8
+VLonely Is The Night
+p578
+sg10
+VBilly Squier
+p579
+sba(i__main__
+Song
+p580
+(dp581
+g6
+g7
+sg8
+VAnother Brick in the Wall, Pt. 2
+p582
+sg10
+VPink Floyd
+p583
+sba(i__main__
+Song
+p584
+(dp585
+g6
+g7
+sg8
+VI Love Rock 'N' Roll 
+p586
+sg10
+VJoan Jett & The Blackhearts
+p587
+sba(i__main__
+Song
+p588
+(dp589
+g6
+g7
+sg8
+VLife Is A Highway
+p590
+sg10
+VTom Cochrane
+p591
+sba(i__main__
+Song
+p592
+(dp593
+g6
+g7
+sg8
+VThe Middle
+p594
+sg10
+VJimmy Eat World
+p595
+sba(i__main__
+Song
+p596
+(dp597
+g6
+g7
+sg8
+VNo One Like You
+p598
+sg10
+VScorpions
+p599
+sba(i__main__
+Song
+p600
+(dp601
+g6
+g7
+sg8
+VJamie's Cryin' 
+p602
+sg10
+VVan Halen
+p603
+sba(i__main__
+Song
+p604
+(dp605
+g6
+g7
+sg8
+VLosing My Religion
+p606
+sg10
+VR.E.M.
+p607
+sba(i__main__
+Song
+p608
+(dp609
+g6
+g7
+sg8
+VDream Weaver
+p610
+sg10
+VGary Wright
+p611
+sba(i__main__
+Song
+p612
+(dp613
+g6
+g7
+sg8
+VMoves Like Jagger 
+p614
+sg10
+VMaroon 5
+p615
+sba(i__main__
+Song
+p616
+(dp617
+g6
+g7
+sg8
+VBarely Breathing
+p618
+sg10
+VDuncan Sheik
+p619
+sba(i__main__
+Song
+p620
+(dp621
+g6
+g7
+sg8
+VYou Give Love A Bad Name
+p622
+sg10
+VBon Jovi
+p623
+sba(i__main__
+Song
+p624
+(dp625
+g6
+g7
+sg8
+VCum on Feel the Noize
+p626
+sg10
+VQuiet Riot
+p627
+sba(i__main__
+Song
+p628
+(dp629
+g6
+g7
+sg8
+VDon't Stop 'Til You Get Enough 
+p630
+sg10
+VMichael Jackson
+p631
+sba(i__main__
+Song
+p632
+(dp633
+g6
+g7
+sg8
+VShakin'
+p634
+sg10
+VEddie Money
+p635
+sba(i__main__
+Song
+p636
+(dp637
+g6
+g7
+sg8
+VHo Hey
+p638
+sg10
+VThe Lumineers
+p639
+sba(i__main__
+Song
+p640
+(dp641
+g6
+g7
+sg8
+VManic Monday
+p642
+sg10
+VBangles
+p643
+sba(i__main__
+Song
+p644
+(dp645
+g6
+g7
+sg8
+VWorking for the Weekend
+p646
+sg10
+VLoverboy
+p647
+sba(i__main__
+Song
+p648
+(dp649
+g6
+g7
+sg8
+VLand Of Confusion
+p650
+sg10
+VGenesis
+p651
+sba(i__main__
+Song
+p652
+(dp653
+g6
+g7
+sg8
+VEverything You Want
+p654
+sg10
+VVertical Horizon
+p655
+sba(i__main__
+Song
+p656
+(dp657
+g6
+g7
+sg8
+VRoxanne
+p658
+sg10
+VThe Police
+p659
+sba(i__main__
+Song
+p660
+(dp661
+g6
+g7
+sg8
+VMajor Tom 
+p662
+sg10
+VPeter Schilling
+p663
+sba(i__main__
+Song
+p664
+(dp665
+g6
+g7
+sg8
+VBorn In The U.S.A.
+p666
+sg10
+VBruce Springsteen
+p667
+sba(i__main__
+Song
+p668
+(dp669
+g6
+g7
+sg8
+VLivin' On The Edge
+p670
+sg10
+VAerosmith
+p671
+sba(i__main__
+Song
+p672
+(dp673
+g6
+g7
+sg8
+VTake On Me
+p674
+sg10
+VA-Ha
+p675
+sba(i__main__
+Song
+p676
+(dp677
+g6
+g7
+sg8
+VInside Out
+p678
+sg10
+VEve 6
+p679
+sba(i__main__
+Song
+p680
+(dp681
+g6
+g7
+sg8
+VPour Some Sugar On Me 
+p682
+sg10
+VDef Leppard
+p683
+sba(i__main__
+Song
+p684
+(dp685
+g6
+g7
+sg8
+VImagine 
+p686
+sg10
+VJohn Lennon
+p687
+sba(i__main__
+Song
+p688
+(dp689
+g6
+g7
+sg8
+VHanging By a Moment
+p690
+sg10
+VLifehouse
+p691
+sba(i__main__
+Song
+p692
+(dp693
+g6
+g7
+sg8
+VWhat I Like About You
+p694
+sg10
+VThe Romantics
+p695
+sba(i__main__
+Song
+p696
+(dp697
+g6
+g7
+sg8
+VWe Got The Beat
+p698
+sg10
+VThe Go-Go's
+p699
+sba(i__main__
+Song
+p700
+(dp701
+g6
+g7
+sg8
+VTwist And Shout 
+p702
+sg10
+VThe Beatles
+p703
+sba(i__main__
+Song
+p704
+(dp705
+g6
+g7
+sg8
+VWild Ones 
+p706
+sg10
+VFlo Rida
+p707
+sba(i__main__
+Song
+p708
+(dp709
+g6
+g7
+sg8
+VI'm Alright 
+p710
+sg10
+VKenny Loggins
+p711
+sba(i__main__
+Song
+p712
+(dp713
+g6
+g7
+sg8
+VWonderwall 
+p714
+sg10
+VOasis
+p715
+sba(i__main__
+Song
+p716
+(dp717
+g6
+g7
+sg8
+VLove Rollercoaster
+p718
+sg10
+VOhio Players
+p719
+sba(i__main__
+Song
+p720
+(dp721
+g6
+g7
+sg8
+VEdge of Seventeen 
+p722
+sg10
+VStevie Nicks
+p723
+sba(i__main__
+Song
+p724
+(dp725
+g6
+g7
+sg8
+VGirls, Girls, Girls
+p726
+sg10
+VMötley Crüe
+p727
+sba(i__main__
+Song
+p728
+(dp729
+g6
+g7
+sg8
+VFriday I'm In Love
+p730
+sg10
+VThe Cure
+p731
+sba(i__main__
+Song
+p732
+(dp733
+g6
+g7
+sg8
+VFree Fallin'
+p734
+sg10
+VTom Petty
+p735
+sba(i__main__
+Song
+p736
+(dp737
+g6
+g7
+sg8
+VMaterial Girl
+p738
+sg10
+VMadonna
+p739
+sba(i__main__
+Song
+p740
+(dp741
+g6
+g7
+sg8
+VCrazy
+p742
+sg10
+VAerosmith
+p743
+sba(i__main__
+Song
+p744
+(dp745
+g6
+g7
+sg8
+VAlways Something There to Remind Me
+p746
+sg10
+VNaked Eyes
+p747
+sba(i__main__
+Song
+p748
+(dp749
+g6
+g7
+sg8
+VBaby Hold On
+p750
+sg10
+VEddie Money
+p751
+sba(i__main__
+Song
+p752
+(dp753
+g6
+g7
+sg8
+VHero 
+p754
+sg10
+VChad Kroeger
+p755
+sba(i__main__
+Song
+p756
+(dp757
+g6
+g7
+sg8
+VThe Power Of Love 
+p758
+sg10
+VHuey Lewis & The News
+p759
+sba(i__main__
+Song
+p760
+(dp761
+g6
+g7
+sg8
+VSimply Irresistible
+p762
+sg10
+VRobert Palmer
+p763
+sba(i__main__
+Song
+p764
+(dp765
+g6
+g7
+sg8
+VFunkytown
+p766
+sg10
+VLipps Inc.
+p767
+sba(i__main__
+Song
+p768
+(dp769
+g6
+g7
+sg8
+VAll Apologies
+p770
+sg10
+VNirvana
+p771
+sba(i__main__
+Song
+p772
+(dp773
+g6
+g7
+sg8
+VEverybody Wants To Rule The World
+p774
+sg10
+VTears For Fears
+p775
+sba(i__main__
+Song
+p776
+(dp777
+g6
+g7
+sg8
+VThunderstruck
+p778
+sg10
+VAC/DC
+p779
+sba(i__main__
+Song
+p780
+(dp781
+g6
+g7
+sg8
+VRolling in the Deep
+p782
+sg10
+VAdele
+p783
+sba(i__main__
+Song
+p784
+(dp785
+g6
+g7
+sg8
+VPiano Man
+p786
+sg10
+VBilly Joel
+p787
+sba(i__main__
+Song
+p788
+(dp789
+g6
+g7
+sg8
+VAre You Gonna Go My Way?
+p790
+sg10
+VLenny Kravitz
+p791
+sba(i__main__
+Song
+p792
+(dp793
+g6
+g7
+sg8
+VTime After Time
+p794
+sg10
+VCyndi Lauper
+p795
+sba(i__main__
+Song
+p796
+(dp797
+g6
+g7
+sg8
+VLow Rider
+p798
+sg10
+VWar
+p799
+sba(i__main__
+Song
+p800
+(dp801
+g6
+g7
+sg8
+VCherry Pie
+p802
+sg10
+VWarrant
+p803
+sba(i__main__
+Song
+p804
+(dp805
+g6
+g7
+sg8
+VWhen I'm Gone
+p806
+sg10
+V3 Doors Down
+p807
+sba(i__main__
+Song
+p808
+(dp809
+g6
+g7
+sg8
+VTwilight Zone
+p810
+sg10
+VGolden Earring
+p811
+sba(i__main__
+Song
+p812
+(dp813
+g6
+g7
+sg8
+VFaithfully
+p814
+sg10
+VJourney
+p815
+sba(i__main__
+Song
+p816
+(dp817
+g6
+g7
+sg8
+VBrown-Eyed Girl
+p818
+sg10
+VVan Morrison
+p819
+sba(i__main__
+Song
+p820
+(dp821
+g6
+g7
+sg8
+VLearn to Fly
+p822
+sg10
+VFoo Fighters
+p823
+sba(i__main__
+Song
+p824
+(dp825
+g6
+g7
+sg8
+VHead Games
+p826
+sg10
+VForeigner
+p827
+sba(i__main__
+Song
+p828
+(dp829
+g6
+g7
+sg8
+VCrazy Train
+p830
+sg10
+VOzzy Osbourne
+p831
+sba(i__main__
+Song
+p832
+(dp833
+g6
+g7
+sg8
+VJumper
+p834
+sg10
+VThird Eye Blind
+p835
+sba(i__main__
+Song
+p836
+(dp837
+g6
+g7
+sg8
+VRunaway
+p838
+sg10
+VBon Jovi
+p839
+sba(i__main__
+Song
+p840
+(dp841
+g6
+g7
+sg8
+VAnimal
+p842
+sg10
+VNeon Trees
+p843
+sba(i__main__
+Song
+p844
+(dp845
+g6
+g7
+sg8
+VHome Sweet Home
+p846
+sg10
+VMötley Crüe
+p847
+sba(i__main__
+Song
+p848
+(dp849
+g6
+g7
+sg8
+VJet Airliner
+p850
+sg10
+VSteve Miller Band
+p851
+sba(i__main__
+Song
+p852
+(dp853
+g6
+g7
+sg8
+VHard To Handle
+p854
+sg10
+VThe Black Crowes
+p855
+sba(i__main__
+Song
+p856
+(dp857
+g6
+g7
+sg8
+VI Wanna Rock
+p858
+sg10
+VTwisted Sister
+p859
+sba(i__main__
+Song
+p860
+(dp861
+g6
+g7
+sg8
+VThe Tide Is High
+p862
+sg10
+VBlondie
+p863
+sba(i__main__
+Song
+p864
+(dp865
+g6
+g7
+sg8
+VJeremy
+p866
+sg10
+VPearl Jam
+p867
+sba(i__main__
+Song
+p868
+(dp869
+g6
+g7
+sg8
+VMargaritaville
+p870
+sg10
+VJimmy Buffett
+p871
+sba(i__main__
+Song
+p872
+(dp873
+g6
+g7
+sg8
+VEvery Rose Has Its Thorn 
+p874
+sg10
+VPoison
+p875
+sba(i__main__
+Song
+p876
+(dp877
+g6
+g7
+sg8
+VCenterfold
+p878
+sg10
+VJ. Geils Band
+p879
+sba(i__main__
+Song
+p880
+(dp881
+g6
+g7
+sg8
+VGet It On 
+p882
+sg10
+VThe Power Station
+p883
+sba(i__main__
+Song
+p884
+(dp885
+g6
+g7
+sg8
+VOne Week
+p886
+sg10
+VBarenaked Ladies
+p887
+sba(i__main__
+Song
+p888
+(dp889
+g6
+g7
+sg8
+VLegs
+p890
+sg10
+VZZ Top
+p891
+sba(i__main__
+Song
+p892
+(dp893
+g6
+g7
+sg8
+VLive And Let Die
+p894
+sg10
+VGuns N' Roses
+p895
+sba(i__main__
+Song
+p896
+(dp897
+g6
+g7
+sg8
+VThe Warrior 
+p898
+sg10
+VScandal
+p899
+sba(i__main__
+Song
+p900
+(dp901
+g6
+g7
+sg8
+VIt's Still Rock and Roll to Me
+p902
+sg10
+VBilly Joel
+p903
+sba(i__main__
+Song
+p904
+(dp905
+g6
+g7
+sg8
+VUse Somebody
+p906
+sg10
+VKings Of Leon
+p907
+sba(i__main__
+Song
+p908
+(dp909
+g6
+g7
+sg8
+VJessie's Girl
+p910
+sg10
+VRick Springfield
+p911
+sba(i__main__
+Song
+p912
+(dp913
+g6
+g7
+sg8
+VFat Bottomed Girls
+p914
+sg10
+VQueen
+p915
+sba(i__main__
+Song
+p916
+(dp917
+g6
+g7
+sg8
+VSex And Candy
+p918
+sg10
+VMarcy Playground
+p919
+sba(i__main__
+Song
+p920
+(dp921
+g6
+g7
+sg8
+VAny Way You Want It
+p922
+sg10
+VJourney
+p923
+sba(i__main__
+Song
+p924
+(dp925
+g6
+g7
+sg8
+VRed Red Wine 
+p926
+sg10
+VUB40
+p927
+sba(i__main__
+Song
+p928
+(dp929
+g6
+g7
+sg8
+VMove Along
+p930
+sg10
+VThe All-American Rejects
+p931
+sba(i__main__
+Song
+p932
+(dp933
+g6
+g7
+sg8
+VHeartbreaker 
+p934
+sg10
+VPat Benatar
+p935
+sba(i__main__
+Song
+p936
+(dp937
+g6
+g7
+sg8
+VPlay That Funky Music
+p938
+sg10
+VWild Cherry
+p939
+sba(i__main__
+Song
+p940
+(dp941
+g6
+g7
+sg8
+VWalk Like An Egyptian
+p942
+sg10
+VBangles
+p943
+sba(i__main__
+Song
+p944
+(dp945
+g6
+g7
+sg8
+VI Touch Myself
+p946
+sg10
+VDivinyls
+p947
+sba(i__main__
+Song
+p948
+(dp949
+g6
+g7
+sg8
+VHeat Of The Moment
+p950
+sg10
+VAsia
+p951
+sba(i__main__
+Song
+p952
+(dp953
+g6
+g7
+sg8
+VMr. Blue Sky
+p954
+sg10
+VElectric Light Orchestra
+p955
+sba(i__main__
+Song
+p956
+(dp957
+g6
+g7
+sg8
+VSweet Home Alabama
+p958
+sg10
+VLynyrd Skynyrd
+p959
+sba(i__main__
+Song
+p960
+(dp961
+g6
+g7
+sg8
+VHook
+p962
+sg10
+VBlues Traveler
+p963
+sba(i__main__
+Song
+p964
+(dp965
+g6
+g7
+sg8
+VDon't Stand So Close To Me
+p966
+sg10
+VThe Police
+p967
+sba(i__main__
+Song
+p968
+(dp969
+g6
+g7
+sg8
+VPush It
+p970
+sg10
+VSalt-N-Pepa
+p971
+sba(i__main__
+Song
+p972
+(dp973
+g6
+g7
+sg8
+VUnwritten
+p974
+sg10
+VNatasha Bedingfield
+p975
+sba(i__main__
+Song
+p976
+(dp977
+g6
+g7
+sg8
+VWhat I Got
+p978
+sg10
+VSublime
+p979
+sba(i__main__
+Song
+p980
+(dp981
+g6
+g7
+sg8
+VPurple Rain
+p982
+sg10
+VPrince & The Revolution
+p983
+sba(i__main__
+Song
+p984
+(dp985
+g6
+g7
+sg8
+VShining Star
+p986
+sg10
+VEarth, Wind & Fire
+p987
+sba(i__main__
+Song
+p988
+(dp989
+g6
+g7
+sg8
+VWelcome to Paradise
+p990
+sg10
+VGreen Day
+p991
+sba(i__main__
+Song
+p992
+(dp993
+g6
+g7
+sg8
+VFreeze-Frame
+p994
+sg10
+VJ. Geils Band
+p995
+sba(i__main__
+Song
+p996
+(dp997
+g6
+g7
+sg8
+VSomebody Told Me
+p998
+sg10
+VThe Killers
+p999
+sba(i__main__
+Song
+p1000
+(dp1001
+g6
+g7
+sg8
+VLady Marmalade  [Full Vocal Version]
+p1002
+sg10
+VChart Collective
+p1003
+sba(i__main__
+Song
+p1004
+(dp1005
+g6
+g7
+sg8
+VSemi-Charmed Life
+p1006
+sg10
+VThird Eye Blind
+p1007
+sba(i__main__
+Song
+p1008
+(dp1009
+g6
+g7
+sg8
+VMickey
+p1010
+sg10
+VToni Basil
+p1011
+sba(i__main__
+Song
+p1012
+(dp1013
+g6
+g7
+sg8
+V1979
+p1014
+sg10
+VSmashing Pumpkins
+p1015
+sba(i__main__
+Song
+p1016
+(dp1017
+g6
+g7
+sg8
+VWalk Away
+p1018
+sg10
+VKelly Clarkson
+p1019
+sba(i__main__
+Song
+p1020
+(dp1021
+g6
+g7
+sg8
+VPhotograph
+p1022
+sg10
+VNickelback
+p1023
+sba(i__main__
+Song
+p1024
+(dp1025
+g6
+g7
+sg8
+VRunnin' Down A Dream [Live]
+p1026
+sg10
+VTom Petty & The Heartbreakers
+p1027
+sbasg6
+g7
+sg8
+S'JackFM'
+p1028
+sb.

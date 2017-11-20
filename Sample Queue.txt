@@ -1,0 +1,317 @@
+(i__main__
+Playlist
+p0
+(dp1
+S'songs'
+p2
+(lp3
+(i__main__
+Song
+p4
+(dp5
+S'id'
+p6
+S''
+p7
+sS'name'
+p8
+VFast Enough
+p9
+sS'artist'
+p10
+VHouse of Heroes
+p11
+sba(i__main__
+Song
+p12
+(dp13
+g6
+g7
+sg8
+VForever
+p14
+sg10
+VFireflight
+p15
+sba(i__main__
+Song
+p16
+(dp17
+g6
+g7
+sg8
+VAll The Memories
+p18
+sg10
+VThe Classic Crime
+p19
+sba(i__main__
+Song
+p20
+(dp21
+g6
+g7
+sg8
+VPaper Lung
+p22
+sg10
+VUnderoath
+p23
+sba(i__main__
+Song
+p24
+(dp25
+g6
+g7
+sg8
+VAll Around Me
+p26
+sg10
+VFlyleaf
+p27
+sba(i__main__
+Song
+p28
+(dp29
+g6
+g7
+sg8
+VHammers & Anvils
+p30
+sg10
+VI Am Empire
+p31
+sba(i__main__
+Song
+p32
+(dp33
+g6
+g7
+sg8
+VLet It Burn
+p34
+sg10
+VRed
+p35
+sba(i__main__
+Song
+p36
+(dp37
+g6
+g7
+sg8
+VBest in Me
+p38
+sg10
+VSent By Ravens
+p39
+sba(i__main__
+Song
+p40
+(dp41
+g6
+g7
+sg8
+VWe're All Liars
+p42
+sg10
+VSent By Ravens
+p43
+sba(i__main__
+Song
+p44
+(dp45
+g6
+g7
+sg8
+VEverything I Need
+p46
+sg10
+VKutless
+p47
+sba(i__main__
+Song
+p48
+(dp49
+g6
+g7
+sg8
+VEscape
+p50
+sg10
+VFireflight
+p51
+sba(i__main__
+Song
+p52
+(dp53
+g6
+g7
+sg8
+VInevitable
+p54
+sg10
+VAnberlin
+p55
+sba(i__main__
+Song
+p56
+(dp57
+g6
+g7
+sg8
+VMonster
+p58
+sg10
+VSkillet
+p59
+sba(i__main__
+Song
+p60
+(dp61
+g6
+g7
+sg8
+VForgiven
+p62
+sg10
+VSanctus Real
+p63
+sba(i__main__
+Song
+p64
+(dp65
+g6
+g7
+sg8
+VLie To Me 
+p66
+sg10
+VRed
+p67
+sba(i__main__
+Song
+p68
+(dp69
+g6
+g7
+sg8
+VReversal
+p70
+sg10
+VUnderoath
+p71
+sba(i__main__
+Song
+p72
+(dp73
+g6
+g7
+sg8
+VThe Count
+p74
+sg10
+VThe Classic Crime
+p75
+sba(i__main__
+Song
+p76
+(dp77
+g6
+g7
+sg8
+VFaith, Love And Happiness
+p78
+sg10
+VThousand Foot Krutch
+p79
+sba(i__main__
+Song
+p80
+(dp81
+g6
+g7
+sg8
+VCrazy Love
+p82
+sg10
+VHawk Nelson
+p83
+sba(i__main__
+Song
+p84
+(dp85
+g6
+g7
+sg8
+VMoving On
+p86
+sg10
+VThe Letter Black
+p87
+sba(i__main__
+Song
+p88
+(dp89
+g6
+g7
+sg8
+VWalls
+p90
+sg10
+VThe Rocket Summer
+p91
+sba(i__main__
+Song
+p92
+(dp93
+g6
+g7
+sg8
+VShook
+p94
+sg10
+VThousand Foot Krutch
+p95
+sba(i__main__
+Song
+p96
+(dp97
+g6
+g7
+sg8
+VDo The Things 
+p98
+sg10
+VEmery
+p99
+sba(i__main__
+Song
+p100
+(dp101
+g6
+g7
+sg8
+VThe Florida Rage
+p102
+sg10
+VWrite This Down
+p103
+sba(i__main__
+Song
+p104
+(dp105
+g6
+g7
+sg8
+VSaints & Sinners
+p106
+sg10
+VI Am Empire
+p107
+sbasg6
+g7
+sg8
+S'Sample Queue'
+p108
+sb.
